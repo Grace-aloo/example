@@ -1,0 +1,10 @@
+const meArray =['second','third','fourth']
+meArray.unshift('first')
+//console.log(meArray)
+meArray.push('last')
+console.log(meArray)
+meArray.shift()
+console.log(meArray)
+meArray.pop()
+console.log(meArray)
+console.log('hello world')
